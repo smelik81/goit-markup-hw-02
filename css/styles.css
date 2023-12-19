@@ -78,6 +78,9 @@ ul {
 .header-info-link:focus {
     color: #404BBF;
 }
+.header-adres {
+    font-style: normal;
+}
 .main-info {
     background-color: #2E2F42;
 }
@@ -105,14 +108,19 @@ ul {
 .team {
     background-color: #F4F4FD;
 }
-.team-img {
+.team-card {
     background-color: #ffffff;
 }
 .footer {
     background-color: #2E2F42;
 }
-.footer-logo span,
+.footer .footer-span {
+    color: #F4F4FD;
+}
 .footer-description {
     color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
